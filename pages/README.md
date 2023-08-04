@@ -24,7 +24,7 @@ Validated instruments used include:
 ## Data overview
 
 ### Actigraphy
-Raw actigraphy data is available for XX subjects and covers a period of approximately 5-7 days. Each participant's actigraphy CSV file has a activity and white light level scores per 30-second epoch, as well as derived(?) sleep/wake and mobility.
+Raw actigraphy data is available for XX subjects and covers a period of approximately 5-7 days. Each participant's actigraphy CSV file has activity and white light level scores per 30-second epoch, as well as derived(?) sleep/wake and mobility.
 Device?
 
 ### Covariate/phenotype datasets
@@ -44,9 +44,9 @@ The SHINE dataset is only available for non-commercial use.
 
 When using this dataset, users must cite the following:
 
-> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+>[Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
->[]()
+>[Yu X, Quante M, Rueschman M, Ash T, Kaplan ER, Guo N, Horan CM, Haneuse S, Davison K, Taveras EM, Redline S. Emergence of racial/ethnic and socioeconomic differences in objectively measured sleep-wake patterns in early infancy: results of the Rise & SHINE study. Sleep. 2021 Mar 12;44(3):zsaa193. doi: 10.1093/sleep/zsaa193. PMID: 33057653; PMCID: PMC7953214.](https://pubmed.ncbi.nlm.nih.gov/33057653/)
 
 Users must include the following text in any Acknowledgements:
 
@@ -55,7 +55,7 @@ Users must include the following text in any Acknowledgements:
 
 ## Changelog
 
-*July 2023*
+*August 2023*
 
 - Make SHINE dataset available for data requests
 
