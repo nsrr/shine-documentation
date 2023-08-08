@@ -1,11 +1,11 @@
 ## About
 
-Rise & SHINE (Sleep Health in Infancy & Early Childhood) is a longitudinal cohort study that examines infants’ sleep patterns between birth and 2 years, familial and environmental determinants of these patterns and their effect on accelerated weight gain over the first two years of life. Secondary outcomes include measures of executive functioning.
+Rise & SHINE (Sleep Health in Infancy & Early Childhood) is a longitudinal cohort study that examines infants’ sleep patterns between one month and 2 years, familial and environmental determinants of these patterns and their effect on accelerated weight gain over the first two years of life. Secondary outcomes include measures of executive functioning.
 
 Infants were enrolled from Massachusetts General Hospital (MGH) and eligibility criteria include:
 - Biologic and birthing mother-child
 - Mother is > 18 years old
-- Singleton birth, born at least 37 week gestation
+- Singleton birth, born at least 37 weeks gestation
 - Child will receive primary care from an MGH pediatric site,
 - Family lives within 40 miles of Boston and does not plan to move in the next year, 
 - Able to speak English or Spanish, 
@@ -24,8 +24,7 @@ Validated instruments used include:
 ## Data overview
 
 ### Actigraphy
-Raw actigraphy data is available for XX subjects and covers a period of approximately 5-7 days. Each participant's actigraphy CSV file has activity and white light level scores per 30-second epoch, as well as derived(?) sleep/wake and mobility.
-Device?
+Raw actigraphy data from Philips Actiwatch 2 (Philips Healthcare, Andover, MD, USA) is available for XX subjects at age 1 months, xx subjects at age 6 months, xx subjects at age 12 months and xx subjects at age 24 months and covers a period of approximately 5-7 days (minimum 3 days and nights of valid actigraphy data). Each participant's actigraphy CSV file has activity level scores per 30-second epochs, as well as manually annotated sleep/wake data analyzed with Respironics Actiware 6 software (Version 6.09, Philips/Respironics).  Scorers manually edited rest and active intervals based on caregiver-completed logs and observation of a sharp decrease/increase in activity. The start of nighttime rest interval was identified based on reported sleep on the sleep diary and the actogram showing reduced activity (> 5 minutes) within or overlapping the night period (7:00 PM – 07:59 AM). The end of a rest interval (beginning of an active interval) was based on diary report of awakening and increased activity on the actogram (> 5 minutes). An active interval was defined as the time between two rest intervals. Additional active intervals were annotated if periods > 60 consecutive minutes of activity were observed. Within each rest interval, epochs of sleep and wake were determined based on the actogram activity using a low threshold of 80 counts for sleep.
 
 ### Covariate/phenotype datasets
 Covariate CSV files contain data on 433 subjects. The [nsrr](:variables_path:/subject) column is the unique SHINE participant identifier. 
