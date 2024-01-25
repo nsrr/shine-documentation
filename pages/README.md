@@ -24,7 +24,7 @@ The data sets include actigraphy studies, questionnaire/survey responses, and in
 [Raw actigraphy data from Philips Actiwatch 2](:files_path:/actigraphy) (Philips Healthcare, Andover, MD, USA) is available for 384 subjects at age 1 months, 337 subjects at age 6 months, 315 subjects at age 12 months and 290 subjects at age 24 months and covers a period of approximately 5-7 days (minimum 3 days and nights of valid actigraphy data). Each participant's actigraphy CSV file has activity level scores per 30-second epochs, as well as manually annotated sleep/wake data analyzed with Respironics Actiware 6 software (Version 6.09, Philips/Respironics).  Scorers manually edited rest and active intervals based on caregiver-completed logs and observation of a sharp decrease/increase in activity. The start of nighttime rest interval was identified based on reported sleep on the sleep diary and the actogram showing reduced activity (> 5 minutes) within or overlapping the night period (7:00 PM – 07:59 AM). The end of a rest interval (beginning of an active interval) was based on diary report of awakening and increased activity on the actogram (> 5 minutes). An active interval was defined as the time between two rest intervals. Additional active intervals were annotated if periods > 60 consecutive minutes of activity were observed. Within each rest interval, epochs of sleep and wake were determined based on the actogram activity using a low threshold of 80 counts for sleep.
 
 ### Covariate/phenotype datasets
-Covariate CSV files contain data on 433 subjects. The [nsrrid](:variables_path:/nsrrid) column is the unique SHINE participant identifier. 
+[Covariate CSV files](:files_path:/datasets) contain data on 433 subjects. The [nsrrid](:variables_path:/nsrrid) column is the unique SHINE participant identifier. 
 
 The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 0=No, 1=Yes, 2=Unsure), which are described in the **domains** data dictionary file.
 
@@ -44,8 +44,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
-> The Rise & SHINE study was supported by the National Institute of Health (5R01DK107972).
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). The Rise & SHINE study was supported by the National Institute of Health (5R01DK107972).
 
 ## Changelog
 
