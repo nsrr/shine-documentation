@@ -16,7 +16,11 @@ Infants were enrolled from Massachusetts General Hospital (MGH) and eligibility 
 
 ## Methods
 
-The data sets include actigraphy studies, questionnaire/survey responses, and information abstracted from the electronic health record. Visits were conducted when the infant was 1, 6, 12, and 24 months of age. 
+Rise & SHINE followed a five-time point visit schedule for child subjects, encompassing the recruitment visit and up to four study visits. The initial intake visit involved eligibility screening, informed consent, maternal surveys, extraction of prenatal health record data, and scheduling the first home visit. Mothers who enrolled their infants in the study's stool collection segment were requested to save a diaper with stool. Subsequent Rise & SHINE study visits, occurring approximately at 1, 6, 12, and 24 months, replicated components of the initial visit, focusing on measurements such as infant and maternal height/weight, surveys, and the provision of actigraphs for infant sleep data. Additionally, stool collection continued at each Rise & SHINE study visit, requiring mothers to save diapers with stool within 24 hours prior to the visits.
+
+Data collection spanned various domains within the Rise & SHINE project, including maternal and infant anthropometrics, sleep data through actigraphy, and microbiome analysis from collected stool samples. The study employed surveys at each visit to gather information on maternal and infant health, with a particular emphasis on sleep patterns. Stool samples underwent metagenomic analysis for microbiome composition, relying on 16S ribosomal RNA gene sequence-based methods. Fathers were involved through online surveys, and a qualitative sub-study within Rise & SHINE delved into factors impacting infant sleep disparities through phone interviews with a subset of mothers. Safety protocols and participant privacy measures were implemented, with staff traveling in pairs for home visits, and secure email links for survey dissemination.
+
+The data sets posted on NSRR include actigraphy studies, questionnaire/survey responses, and information abstracted from the electronic health record. Visits were conducted when the infant was 1, 6, 12, and 24 months of age. 
 
 ## Data overview
 
@@ -44,7 +48,7 @@ When using this dataset, users must cite the following:
 
 Users must include the following text in any Acknowledgements:
 
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). The Rise & SHINE study was supported by the National Institute of Health (5R01DK107972).
+> The Rise & SHINE study was supported by the National Institute of Health (5R01DK107972). The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002). 
 
 ## Changelog
 
@@ -54,6 +58,8 @@ Users must include the following text in any Acknowledgements:
 
 ## References
 
+- [Ash T, Davison KK, Haneuse S, Horan C, Kitos N, Redline S, Taveras EM. Emergence of racial/ethnic differences in infant sleep duration in the first six months of life. Sleep Med X. 2019 May 18;1:100003. doi: 10.1016/j.sleepx.2019.100003. PMID: 33870162; PMCID: PMC8041110.](https://pubmed.ncbi.nlm.nih.gov/33870162/)
+- [Quante M, McGee GW, Yu X, von Ash T, Luo M, Kaplan ER, Rueschman M, Haneuse S, Davison KK, Redline S, Taveras EM. Associations of sleep-related behaviors and the sleep environment at infant age one month with sleep patterns in infants five months later. Sleep Med. 2022 Jun;94:31-37. doi: 10.1016/j.sleep.2022.03.019. Epub 2022 Apr 7. PMID: 35489116; PMCID: PMC10315002.](https://pubmed.ncbi.nlm.nih.gov/35489116/)
 - SHINE GitHub Data Dictionary: https://github.com/nsrr/shine-data-dictionary
 - SHINE GitHub Documentation: https://github.com/nsrr/shine-documentation
 
