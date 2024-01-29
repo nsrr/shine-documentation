@@ -20,7 +20,7 @@ Rise & SHINE followed a five-time point visit schedule for child subjects, encom
 
 Data collection spanned various domains within the Rise & SHINE project, including maternal and infant anthropometrics, sleep data through actigraphy, and microbiome analysis from collected stool samples. The study employed surveys at each visit to gather information on maternal and infant health, with a particular emphasis on sleep patterns. Stool samples underwent metagenomic analysis for microbiome composition, relying on 16S ribosomal RNA gene sequence-based methods. Fathers were involved through online surveys, and a qualitative sub-study within Rise & SHINE delved into factors impacting infant sleep disparities through phone interviews with a subset of mothers. Safety protocols and participant privacy measures were implemented, with staff traveling in pairs for home visits, and secure email links for survey dissemination.
 
-The data sets posted on NSRR include actigraphy studies, questionnaire/survey responses, and information abstracted from the electronic health record. Visits were conducted when the infant was 1, 6, 12, and 24 months of age. 
+The data posted on NSRR include actigraphy studies, questionnaire/survey responses, and information abstracted from the electronic health record. Visits were conducted when the infant was 1, 6, 12, and 24 months of age. 
 
 ## Data overview
 
