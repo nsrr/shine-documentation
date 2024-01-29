@@ -25,7 +25,7 @@ The data sets posted on NSRR include actigraphy studies, questionnaire/survey re
 ## Data overview
 
 ### Actigraphy
-[Raw actigraphy data from Philips Actiwatch 2](:files_path:/actigraphy) (Philips Healthcare, Andover, MD, USA) is available for 384 subjects at age 1 months, 337 subjects at age 6 months, 315 subjects at age 12 months and 290 subjects at age 24 months and covers a period of approximately 5-7 days (minimum 3 days and nights of valid actigraphy data). Each participant's actigraphy CSV file has activity level scores per 30-second epochs, as well as manually annotated sleep/wake data analyzed with Respironics Actiware 6 software (Version 6.09, Philips/Respironics).  Scorers manually edited rest and active intervals based on caregiver-completed logs and observation of a sharp decrease/increase in activity. The start of nighttime rest interval was identified based on reported sleep on the sleep diary and the actogram showing reduced activity (> 5 minutes) within or overlapping the night period (7:00 PM – 07:59 AM). The end of a rest interval (beginning of an active interval) was based on diary report of awakening and increased activity on the actogram (> 5 minutes). An active interval was defined as the time between two rest intervals. Additional active intervals were annotated if periods > 60 consecutive minutes of activity were observed. Within each rest interval, epochs of sleep and wake were determined based on the actogram activity using a low threshold of 80 counts for sleep.
+[Raw actigraphy data from Philips Actiwatch 2](:files_path:/actigraphy) (Philips Healthcare, Andover, MD, USA) is available for 373 subjects at age 1 months, 322 subjects at age 6 months, 301 subjects at age 12 months and 261 subjects at age 24 months and covers a period of approximately 5-7 days (minimum 3 days and nights of valid actigraphy data for analytic purposes). Each participant's actigraphy CSV file has activity level scores per 30-second epochs, as well as manually annotated sleep/wake data analyzed with Respironics Actiware 6 software (Version 6.09, Philips/Respironics).  Scorers manually edited rest and active intervals based on caregiver-completed logs and observation of a sharp decrease/increase in activity. The start of nighttime rest interval was identified based on reported sleep on the sleep diary and the actogram showing reduced activity (> 5 minutes) within or overlapping the night period (7:00 PM – 07:59 AM). The end of a rest interval (beginning of an active interval) was based on diary report of awakening and increased activity on the actogram (> 5 minutes). An active interval was defined as the time between two rest intervals. Additional active intervals were annotated if periods > 60 consecutive minutes of activity were observed. Within each rest interval, epochs of sleep and wake were determined based on the actogram activity using a low threshold of 80 counts for sleep.
 
 ### Covariate/phenotype datasets
 [Covariate CSV files](:files_path:/datasets) contain data on 433 subjects. The [nsrrid](:variables_path:/nsrrid) column is the unique SHINE participant identifier. 
@@ -33,6 +33,22 @@ The data sets posted on NSRR include actigraphy studies, questionnaire/survey re
 The dataset columns are described in the accompanying data dictionary files. The **variables** data dictionary file includes column names (id), labels (display names), descriptions, and other metadata. Categorical variables also include an associated "domain" (e.g., 0=No, 1=Yes, 2=Unsure), which are described in the **domains** data dictionary file.
 
 The history of the covariate dataset and data dictionary files have been tracked on GitHub (https://github.com/nsrr/shine-data-dictionary). 
+
+The harmonized-dataset contains many of the most frequently used demographic and sleep variables. These variables were curated by the NSRR team to allow ready inter-operability with other NSRR datasets. 
+
+<details>
+  <summary>Expand to see the list of key harmonized variables:</summary>
+
+  <table>
+    <tr><td><b>Variable</b></td><td><b>Label</b></td></tr>
+    <tr><td><a href=":variables_path:/nsrr_age">nsrr_age</a></td><td>Subject age: Infant</td></tr>
+    <tr><td><a href=":variables_path:/nsrr_sex">nsrr_sex</a></td><td>Subject sex: Infant</td></tr>
+    <tr><td><a href=":variables_path:/nsrr_race">nsrr_race</a></td><td>Subject race: Infant</td></tr>  
+    <tr><td><a href=":variables_path:/nsrr_bmi">nsrr_bmi</a></td><td>Body mass index (BMI): Infant</td></tr>  
+
+  </table>
+
+</details>  
 
 ## Access and usage restrictions
 
