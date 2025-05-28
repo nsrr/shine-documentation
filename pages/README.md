@@ -22,6 +22,10 @@ Data collection spanned various domains within the Rise & SHINE project, includi
 
 The data posted on NSRR include actigraphy studies, questionnaire/survey responses, and information abstracted from the electronic health record. Visits were conducted when the infant was 1, 6, 12, and 24 months of age. 
 
+## Data de-identification
+
+All personally identifiable information (PII) has been removed from the data files by the NSRR team.
+
 ## Data overview
 
 ### Actigraphy
