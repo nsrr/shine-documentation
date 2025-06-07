@@ -85,6 +85,12 @@ Users must include the following text in any Acknowledgements:
 
 ## Changelog
 
+*June 2025*
+
+- Add actigraphy data from parents
+- Restructure folders with epoch-by-epoch actigraphy data
+- Release dataset 0.2.0 with additional data and metadata
+
 *January 2024*
 
 - Make SHINE dataset available for data requests
