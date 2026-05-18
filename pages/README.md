@@ -85,6 +85,10 @@ Users must include the following text in any Acknowledgements:
 
 ## Changelog
 
+*May 2026*
+
+- Release dataset 0.3.0 with additional covariates (primarily questionnaires)
+
 *June 2025*
 
 - Add actigraphy data from parents
